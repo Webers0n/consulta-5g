@@ -7,7 +7,7 @@ const lista1 = ["teste", "iPhone 13", "Galaxy S21", "Redmi Note 12"]; // exemplo
 const vozEDados = [
     // Xiaomi
     "Redmi A3", "Redmi note 7", "Redmi note 8", "Redmi note 8 Pro", "Redmi 10C", "Redmi note 11",
-    "Redmi note 12", "Redmi 12C", "Redmi 13", "Redmi 13C", "Redmi 13 Pro",
+    "Redmi note 12", "Redmi 12C", "Redmi 13", "Redmi 13C", "Redmi 13 Pro", "Redmi Note 13 5G",
     "Poco X3", "Poco X5", "Poco X5 Pro", "Poco X6 Pro", "Poco C65",
 
     // Apple iPhone
@@ -15,13 +15,17 @@ const vozEDados = [
     "iPhone 12 Pro Max", "iPhone 13", "iPhone X", "iPhone XS", "iPhone XR",
 
     // Samsung
-    "Samsung A12", "Samsung A13", "Samsung A14", "Samsung A15", "Samsung A03", "Samsung A03 Core",
-    "Samsung A04", "Samsung A04S", "Samsung A04E", "Samsung A05", "Samsung A05S", "Samsung A23",
-    "Samsung S23", "Samsung S23 Ultra", "Samsung A32", "Samsung A34", "Samsung A35", "Samsung A53",
-    "Samsung A71", "Samsung A72", "Samsung M13", "Samsung M15", "Samsung M23", "Samsung M53", "Samsung M62",
+    "Samsung A03", "Samsung A03 Core", "Samsung A04", "Samsung A04S", "Samsung A04E",
+    "Samsung A05", "Samsung A05S", "Samsung A12", "Samsung A13", "Samsung A14", "Samsung A15",
+    "Samsung A16 5G", "Samsung A23", "Samsung A32", "Samsung A34", "Samsung A35", "Samsung A53",
+    "Samsung A54", // Galaxy A54 (pode usar só "Samsung A54")
+    "Samsung A71", "Samsung A72",
+    "Samsung M13", "Samsung M15", "Samsung M23", "Samsung M53", "Samsung M62",
+    "Samsung S23", "Samsung S23 Ultra",
 
     // Motorola
-    "Moto E13", "Moto G14", "Moto G34", "Moto G53", "Moto G54", "Moto G60", "Moto G73", "Moto G84", "Moto G04S", "Moto G71"
+    "Moto E13", "Moto G14", "Moto G34", "Moto G53", "Moto G54", "Moto G60",
+    "Moto G73", "Moto G84", "Moto G04S", "Moto G71"
 ];
 
 // EQUIPAMENTOS APENAS FUNCIONANDO OS DADOS
@@ -36,10 +40,10 @@ const dadosApenas = [
     "iPhone 6S",
 
     // Samsung
-    "Galaxy S20 FE", "Samsung Pro", "Samsung A31", "Samsung A50", "Samsung A52", "A20", "A20S", "A30S", "A31",
+    "Samsung Galaxy S20 FE", "Samsung Pro", "Samsung A31", "Samsung Galaxy A50", "Samsung Galaxy A52", "Samsung Galaxy A20", "Samsung Galaxy A20S", "Samsung Galaxy A30S",
 
     // Realme
-    "Realme C11", "Realme C33", "Realme C53", "Realme C55", "Realme C67", "Realme Note 50",
+    "Realme C11", "Realme C33", "Realme C53", "Realme C55", "Realme C67", "Realme Note 50", "Realme C51", "Redmi Note 13",
 
     // Xiaomi
     "Redmi 9A", "Redmi A2", "Redmi Note 9", "Redmi Note 9 Pro", "Redmi Note 9C", "Redmi 10A", "Redmi Note 10S", "Redmi Note 12S"
@@ -52,17 +56,17 @@ const incompativeis = [
     "Samsung J7 Prime", "Samsung J7", "Samsung J6",
 
     // Motorola (incompatíveis)
-    "Moto One Macro", "Moto G8", "Moto G9 Plus",
+    "Moto One Macro", "Moto G8", "Moto G9 Plus", "Moto G22",
 
     // Xiaomi
-    "Redmi note 6 Pro", "Mi A2",
+    "Redmi note 6 Pro", "Mi A2", "Samsung Galaxy A31",
 
     // LG
     "LG K9", "LG K10", "LG K12 MAX",
 
     // Outros
     "A01", "A02S", "A03S", "A10", "J4", "J4 Core", "J7 Prime",
-    "G Max 2 SE 63", "Philco PCS02"
+    "G Max 2 SE 63", "Philco PCS02", "iPhone 8 Plus", " Samsung Galaxy A30"
 ];
 
 
