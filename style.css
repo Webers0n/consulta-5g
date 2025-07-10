@@ -1,0 +1,102 @@
+
+* {
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    font-weight: 200px;
+    font-style: normal;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #c7c7c7;
+    color: #333;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 9em;
+
+    padding: 1em;
+}
+
+h1 {
+    margin-bottom: 1.5em;
+    font-size: 1.8rem;
+    color: #222;
+}
+
+h3{
+    height: 80px;
+    
+    color: white;
+    background-color: #222;
+    padding: 10px;
+    border-bottom: solid 2px red;
+}
+.card {
+    background: white;
+    padding: 2em;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    width: 90%;
+    max-width: 500px;
+    text-align: center;
+}
+
+.modelo {
+    padding: 0.8em;
+    border: 1px solid #838282;
+    border-radius: 10px;
+    width: 100%;
+    font-size: 1rem;
+    margin-bottom: 1em;
+}
+
+.resultado {
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin-top: 0.5em;
+}
+
+.footer {
+    background: #222;
+    color: #eee;
+    text-align: center;
+    padding: 1em;
+    font-size: 0.9rem;
+}
+
+.sugestoes {
+    background: #fff;
+    border: 1px solid #ccc;
+    max-height: 150px;
+    overflow-y: auto;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+
+.sugestoes div {
+    padding: 8px;
+    cursor: pointer;
+}
+
+.sugestoes div:hover {
+    background-color: #f0f0f0;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    background: #0077ff;
+    color: white;
+    cursor: pointer;
+    font-size: 1rem;
+}
