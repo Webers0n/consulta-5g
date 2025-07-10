@@ -58,7 +58,7 @@ h1 {
 }
 
 .topo > a:hover {
-    background-color: tomato;
+    background-color: #ff0000;
     cursor: pointer;
 }
 
