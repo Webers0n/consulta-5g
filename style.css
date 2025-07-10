@@ -179,6 +179,7 @@ button:hover {
     }
 
     .topo > a {
+        padding: 10px;
         font-size: 0.9em;
     }
 }
