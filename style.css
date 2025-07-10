@@ -161,3 +161,25 @@ button:hover {
     padding: 1em;
     font-size: 0.9rem;
 }
+
+
+@media (max-width: 500px) {
+    .card {
+        padding: 1.2em;
+    }
+
+    h1 {
+        font-size: 1.4rem;
+    }
+
+    .topo {
+        height: auto;
+        gap: 10px;
+        text-align: center;
+    }
+
+    .topo > a {
+        font-size: 0.9em;
+    }
+}
+
