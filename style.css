@@ -8,6 +8,7 @@
 }
 
 body {
+    overflow: hidden;
     background: #c7c7c7;
     color: #333;
     min-height: 100vh;
