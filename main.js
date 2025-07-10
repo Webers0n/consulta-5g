@@ -62,7 +62,8 @@ consulta.addEventListener("input", function () {
         resultado.style.color = "red";
         botaoAvancar.style.display = "none";
     } else {
-        resultado.innerHTML = `❓ Aparelho não encontrado`;
+        resultado.innerHTML = `❓ Aparelho não encontrado <br>
+        Por favor, <a href=" https://wa.me/qr/HAFC2JUK7KE2P1 " style="color:#0077ff; text-decoration: underline;">Clique aqui para entrar em contato comigo</a> para que eu possa adicionar este dispositivo.`
         resultado.style.color = "gray";
         botaoAvancar.style.display = "none";
     }
