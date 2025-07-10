@@ -58,12 +58,13 @@ h1 {
     text-decoration: none;
     font-weight: 600;
     padding: 10px 20px;
-    border-radius: 6px;
+    
     display: inline-block;
     transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 .topo > a:hover {
+    
     background-color: #ff0000;
     cursor: pointer;
 }
