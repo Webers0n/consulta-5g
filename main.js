@@ -7,7 +7,7 @@ const vozEDados = ["Redmi A3","Redmi note 7","Redmi note 8","Redmi note 8 Pro","
 
     const dadosApenas = ["LGK41","LGK41S","LGK52","LGK62","LGK22","Moto E22","Moto E40","Moto G10","Moto G20","Moto G24","Moto G32","Moto G52","M21S","iPhone 6S","Galaxy S20 FE","Samsung Pro","Samsung A31","Samsung A50","Samsung A52","A20","A20S","A30S","A31","Realme C11","Realme C33","Realme C53","Realme C55","Realme C67","Realme Note 50","Redmi 9A","Redmi A2","Redmi Note 9","Redmi Note 9 Pro","Redmi Note 9C","Redmi 10A","Redmi Note 10S","Redmi Note 12S"];
 
-    const incompativeis = ["A01","A02S","A03S","A10","Galaxy A01","Samsung A10S","Samsung S10","Samsung A11","Moto One Macro","Moto G8","Moto G9 Plus","J4","J4 Core","J7 Prime","Redmi note 6 Pro","Mi A2","G Max 2 SE 63","LG K9","LG K10","LG K12 MAX","Philco PCS02"];
+    const incompativeis = ["A01","A02S","A03S","A10","Galaxy A01","Samsung A10S","Samsung S10","Samsung A11","Moto One Macro","Moto G8","Moto G9 Plus","J4","J4 Core","J7 Prime","Redmi note 6 Pro","Mi A2","G Max 2 SE 63","LG K9","LG K10","LG K12 MAX","Philco PCS02", "Samsung J7 Prime", "Samsung J7"];
 
 const todas = [...vozEDados, ...dadosApenas, ...incompativeis];
 
