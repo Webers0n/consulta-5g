@@ -8,6 +8,7 @@
 }
 
 body {
+    max-width: 100%;
     overflow: hidden;
     background: #c7c7c7;
     color: #333;
@@ -15,6 +16,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    
 }
 
 .container {
@@ -34,10 +36,12 @@ h1 {
 
 /* CABEÇALHO */
 .topo {
+
     height: 60px;
     color: white;
     background-color: #222;
-    padding: 10px 20px;
+    padding-inline: 1em;
+    gap: 1em;
     border-bottom: 4px solid #ff0000;
     font-weight: 600;
     display: flex;
