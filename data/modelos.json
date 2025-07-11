@@ -1,33 +1,33 @@
 {
   "vozEDados": [
     "Redmi A3", "Redmi note 7", "Redmi note 8", "Redmi note 8 Pro", "Redmi 10C", "Redmi note 11","Redmi Note 11s 5G",
-    "Redmi Note 12", "Redmi 12C", "Redmi 13", "Redmi 13C", "Redmi 13 Pro", "Redmi Note 13 5G","Redmi 12","Realme Note 50","Redmi Note 14 5G",
-    "Poco X3", "Poco X5", "Poco X5 Pro", "Poco X6 Pro", "Poco C65", "Poco X7", "Poco X7 Pro","Poco C75 5G","Poco X4",
+    "Redmi Note 12", "Redmi 12C", "Redmi 13", "Redmi 13C", "Redmi 13 Pro", "Redmi Note 13 5G","Redmi 12","Realme Note 50","Redmi Note 14",
+    "Poco X3", "Poco X5", "Poco X5 Pro", "Poco X6 Pro", "Poco C65", "Poco X7", "Poco X7 Pro","Poco C75 5G","Poco X4", "Poco M7",
     "iPhone 7", "iPhone 7 Plus", "iPhone 11", "iPhone 11 Pro", "iPhone 11 Pro Max",
-    "iPhone 12 Pro Max", "iPhone 13", "iPhone X", "iPhone XS", "iPhone XR",
+    "iPhone 12 Pro Max", "iPhone 13", "iPhone X", "iPhone XS", "iPhone XR", "iPhone 15 Plus", "iPhone 14",
     "Samsung Galaxy A03", "Samsung Galaxy A03 Core", "Samsung Galaxy A04", "Samsung Galaxy A04S", "Samsung Galaxy A04E",
     "Samsung Galaxy A05", "Samsung Galaxy A12", "Samsung Galaxy A13 5G", "Samsung Galaxy A14", "Samsung Galaxy  A15",
     "Samsung Galaxy A16 5G", "Samsung Galaxy A16", "Samsung Galaxy A23", "Samsung Galaxy A32", "Samsung Galaxy A34", "Samsung Galaxy A35", "Samsung Galaxy A53","Samsung Galaxy A21","Samsung Galaxy A05s","Samsung Galaxy S24",
-    "Samsung Galaxy A54", "Samsung Galaxy A71", "Samsung Galaxy A71 5G", "Samsung Galaxy A52 5G", "Samsung Galaxy A72", "Samsung Galaxy A55 5G","Samsung Galaxy S25 5G", "Samsung Galaxy S25 Ultra 5G","Samsung Galaxy A26 5G", "Samsung Galaxy A06",
-    "Samsung Galaxy M13", "Samsung Galaxy M15 5G", "Samsung Galaxy M15 Prime Edition", "Samsung Galaxy M23 5G", "Samsung Galaxy M53 5G", "Samsung Galaxy M62", "Samsung Galaxy S23 5G", "Samsung Galaxy S23 Ultra 5G", "Samsung Galaxy S20 FE 5G", "Samsung Galaxy S20 5G", "Moto E13", "Moto G14", "Moto G34", "Moto G53", "Moto G54", "Moto G60", "Moto G73", "Moto G84", "Moto G04S", "Moto G71","Moto G82 5G","Moto G100"
-
+    "Samsung Galaxy A54", "Samsung Galaxy A71", "Samsung Galaxy A71 5G", "Samsung Galaxy A52 5G", "Samsung Galaxy A72", "Samsung Galaxy A55 5G","Samsung Galaxy S25 5G", "Samsung Galaxy S25 Ultra 5G","Samsung Galaxy A26", "Samsung Galaxy A06",
+    "Samsung Galaxy M13", "Samsung Galaxy M15 5G", "Samsung Galaxy M15 Prime Edition", "Samsung Galaxy M23 5G", "Samsung Galaxy M53 5G", "Samsung Galaxy M62", "Samsung Galaxy S23 5G", "Samsung Galaxy S23 Ultra 5G", "Samsung Galaxy S20 FE 5G", "Samsung Galaxy S20 5G", "Moto E13", "Moto G14", "Moto G34", "Moto G53", "Moto G54", "Moto G60", "Moto G73", "Moto G84", "Moto G04S", "Moto G71","Moto G82 5G","Moto G100","OPPO Reno13 5G", "Moto G35", "Moto G55", "Moto G54", "Moto G56", "Moto G75"
   ],
   "dadosApenas": [
     "LG K41", "LG K41S", "LG K52", "LG K62",
-    "Moto E22", "Moto E40", "Moto G10", "Moto G20", "Moto G24", "Moto G32", "Moto G52", "M21S", "Moto One Macro", "Moto G6","Moto G30", "Moto G22",
+    "Moto E22", "Moto E40", "Moto G10", "Moto G20", "Moto G24", "Moto G32", "Moto G52", "M21S", "Moto One Macro", "Moto G6","Moto G30", "Moto G22", "Moto G05",
     "iPhone 6S","Motorola One Hyper",
-    "Samsung Pro", "Samsung Galaxy A31", "Samsung Galaxy A50", "Samsung Galaxy A52", "Samsung Galaxy A20", "Samsung Galaxy A20S", "Samsung Galaxy A30S", "Samsung Galaxy S20 FE","Samsung Galaxy A11",
-    "Realme C11", "Realme C33", "Realme C53", "Realme C55", "Realme C67", "Realme C51", "Redmi Note 13","Redmi Note 9","Redmi 9","Redmi 8","Redmi Note 7","Redmi 8 Pro","Redmi Note 11s",
-    "Redmi 9A", "Redmi A2", "Redmi Note 9", "Redmi Note 9 Pro", "Redmi Note 9C", "Redmi 10A", "Redmi Note 10S","OPPO Reno13 5G", "iPhone 8 Plus","Poco C75","Poco F3"
+    "Samsung Galaxy Z Fold6", "Samsung Galaxy A31", "Samsung Galaxy A50", "Samsung Galaxy A52", "Samsung Galaxy A20", "Samsung Galaxy A20S", "Samsung Galaxy A30S", "Samsung Galaxy S20 FE","Samsung Galaxy A11",
+    "Realme C11", "Realme C33", "Realme C53", "Realme C55", "Realme C67", "Realme C51", 
+    "Redmi Note 13","Redmi Note 9","Redmi 9","Redmi 8","Redmi Note 7","Redmi 8 Pro","Redmi Note 11s",
+    "Redmi 9A", "Redmi A2", "Redmi Note 9", "Redmi Note 9 Pro", "Redmi Note 9C", "Redmi 10A", "Redmi Note 10S", "iPhone 8 Plus","Poco F3"
   ],
   "incompativeis": [
-    "Galaxy A01", "Samsung A10S", "Samsung S10", "Samsung A11",
-    "Samsung J7 Prime", "Samsung J7", "Samsung J6", "Samsung A13",
-    "Galaxy A2","Samsung J2","Samsung J4",
-    "Moto One Macro", "Moto G8", "Moto G9 Plus", "Moto G9","Samsung A5",
-    "Redmi note 6 Pro", "Mi A2", "Samsung Galaxy A31", "Redmi 12C", "Redmi A3","Redmi 7","Xiaomi A1","Xiaomi A2",
+    "Samsung Galaxy A01", "Samsung Galaxy A10S", "Samsung Galaxy S10", "Samsung Galaxy A11",
+    "Samsung Galaxy J7 Prime", "Samsung Galaxy J7", "Samsung Galaxy J6", "Samsung Galaxy A13",
+    "Samsung Galaxy A2","Samsung Galaxy J2","Samsung Galaxy J4", "Samsung Galaxy A30", "Samsung Galaxy A31S", "Samsung Galaxy A31", "Samsung Galaxy A5",
+    "Moto One Macro", "Moto G8", "Moto G9 Plus", "Moto G9",
+    "Redmi note 6 Pro", "Mi A2", "Redmi 12C", "Redmi A3","Redmi 7","Xiaomi A1","Xiaomi A2",
     "LG K9", "LG K10", "LG K12 MAX", "LG K22",
     "A02S", "A03S", "A10", "J4", "J4 Core", "J7 Prime",
-    "G Max 2 SE 63", "Philco PCS02", "Samsung Galaxy A30", "Samsung Galaxy A31S"
+    "G Max 2 SE 63", "Philco PCS02"
   ]
 }
