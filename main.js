@@ -7,7 +7,7 @@ const botaoAvancar = document.querySelector("#botaoAvancar");
 const vozEDados = [
     // Xiaomi
     "Redmi A3", "Redmi note 7", "Redmi note 8", "Redmi note 8 Pro", "Redmi 10C", "Redmi note 11",
-    "Redmi note 12", "Redmi 12C", "Redmi 13", "Redmi 13C", "Redmi 13 Pro", "Redmi Note 13 5G",
+    "Redmi note 12", "Redmi 12C", "Redmi 13", "Redmi 13C", "Redmi 13 Pro", "Redmi Note 13 5G","Redmi 12",
     "Poco X3", "Poco X5", "Poco X5 Pro", "Poco X6 Pro", "Poco C65", "Poco X7", "Poco X7 Pro",
 
     // Apple iPhone
@@ -42,7 +42,7 @@ const dadosApenas = [
     "Samsung Pro", "Samsung A31", "Samsung Galaxy A50", "Samsung Galaxy A52", "Samsung Galaxy A20", "Samsung Galaxy A20S", "Samsung Galaxy A30S", "Samsung Galaxy S20 FE",
 
     // Realme
-    "Realme C11", "Realme C33", "Realme C53", "Realme C55", "Realme C67", "Realme Note 50", "Realme C51", "Redmi Note 13",
+    "Realme C11", "Realme C33", "Realme C53", "Realme C55", "Realme C67", "Realme Note 50", "Realme C51", "Redmi Note 13","Redmi Note 9","Redmi 9","Redmi 8","Redmi Note 7","Redmi 8 Pro",
 
     // Xiaomi
     "Redmi 9A", "Redmi A2", "Redmi Note 9", "Redmi Note 9 Pro", "Redmi Note 9C", "Redmi 10A", "Redmi Note 10S","OPPO Reno13 5G"
@@ -51,13 +51,14 @@ const dadosApenas = [
 const incompativeis = [
     // Samsung (incompatíveis)
     "Galaxy A01", "Samsung A10S", "Samsung S10", "Samsung A11",
-    "Samsung J7 Prime", "Samsung J7", "Samsung J6", "Samsung A13", "Samsung A72",
+    "Samsung J7 Prime", "Samsung J7", "Samsung J6", "Samsung A13", "Samsung A72","Galaxy A1",
+  "Galaxy A2","Samsung J2","Samsung J4",
 
     // Motorola (incompatíveis)
     "Moto One Macro", "Moto G8", "Moto G9 Plus", "Moto G22", "Moto G9","Samsung A5",
 
     // Xiaomi
-    "Redmi note 6 Pro", "Mi A2", "Samsung Galaxy A31", "Redmi 12C", "Redmi A3",
+    "Redmi note 6 Pro", "Mi A2", "Samsung Galaxy A31", "Redmi 12C", "Redmi A3","Redmi 7","Xiaomi A1","Xiaomi A2",
 
     // LG
     "LG K9", "LG K10", "LG K12 MAX", "LG K22",
