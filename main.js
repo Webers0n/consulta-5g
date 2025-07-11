@@ -45,7 +45,7 @@ const dadosApenas = [
     "Realme C11", "Realme C33", "Realme C53", "Realme C55", "Realme C67", "Realme Note 50", "Realme C51", "Redmi Note 13",
 
     // Xiaomi
-    "Redmi 9A", "Redmi A2", "Redmi Note 9", "Redmi Note 9 Pro", "Redmi Note 9C", "Redmi 10A", "Redmi Note 10S"
+    "Redmi 9A", "Redmi A2", "Redmi Note 9", "Redmi Note 9 Pro", "Redmi Note 9C", "Redmi 10A", "Redmi Note 10S","OPPO Reno13 5G"
 ];
 
 const incompativeis = [
