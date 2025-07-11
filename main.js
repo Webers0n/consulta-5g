@@ -33,7 +33,7 @@ const dadosApenas = [
     "LGK41", "LGK41S", "LGK52", "LGK62",
 
     // Motorola
-    "Moto E22", "Moto E40", "Moto G10", "Moto G20", "Moto G24", "Moto G32", "Moto G52", "M21S", "Moto One Macro", "Moto G6","Moto G30",
+    "Moto E22", "Moto E40", "Moto G10", "Moto G20", "Moto G24", "Moto G32", "Moto G52", "M21S", "Moto One Macro", "Moto G6","Moto G30", "Moto G22",
 
     // Apple iPhone
     "iPhone 6S",
@@ -55,7 +55,7 @@ const incompativeis = [
   "Galaxy A2","Samsung J2","Samsung J4",
 
     // Motorola (incompatíveis)
-    "Moto One Macro", "Moto G8", "Moto G9 Plus", "Moto G22", "Moto G9","Samsung A5",
+    "Moto One Macro", "Moto G8", "Moto G9 Plus", "Moto G9","Samsung A5",
 
     // Xiaomi
     "Redmi note 6 Pro", "Mi A2", "Samsung Galaxy A31", "Redmi 12C", "Redmi A3","Redmi 7","Xiaomi A1","Xiaomi A2",
