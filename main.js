@@ -59,15 +59,15 @@ consulta.addEventListener("input", function () {
   const ehIncompativel = incompativeis.includes(modeloSelecionado);
 
   if (ehVozEDados) {
-    resultado.innerHTML = `✅ Aparelho compatível com 5G (Voz e Dados)`;
+    resultado.innerHTML = `✅ Aparelho compatível (Voz e Dados)`;
     resultado.style.color = "green";
     botaoAvancar.style.display = "inline-block";
   } else if (ehDadosApenas) {
-    resultado.innerHTML = `⚠️ Compatível apenas com 5G para dados`;
+    resultado.innerHTML = `⚠️ Compatível apenas para dados`;
     resultado.style.color = "orange";
     botaoAvancar.style.display = "inline-block";
   } else if (ehIncompativel) {
-    resultado.innerHTML = `❌ Aparelho não é compatível com 5G`;
+    resultado.innerHTML = `❌ Aparelho não é compatível`;
     resultado.style.color = "red";
     botaoAvancar.style.display = "none";
   }

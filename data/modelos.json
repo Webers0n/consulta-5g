@@ -20,7 +20,7 @@
     "iPhone 6S",
     "Samsung Pro", "Samsung A31", "Samsung Galaxy A50", "Samsung Galaxy A52", "Samsung Galaxy A20", "Samsung Galaxy A20S", "Samsung Galaxy A30S", "Samsung Galaxy S20 FE",
     "Realme C11", "Realme C33", "Realme C53", "Realme C55", "Realme C67", "Realme Note 50", "Realme C51", "Redmi Note 13","Redmi Note 9","Redmi 9","Redmi 8","Redmi Note 7","Redmi 8 Pro",
-    "Redmi 9A", "Redmi A2", "Redmi Note 9", "Redmi Note 9 Pro", "Redmi Note 9C", "Redmi 10A", "Redmi Note 10S","OPPO Reno13 5G"
+    "Redmi 9A", "Redmi A2", "Redmi Note 9", "Redmi Note 9 Pro", "Redmi Note 9C", "Redmi 10A", "Redmi Note 10S","OPPO Reno13 5G", "iPhone 8 Plus"
   ],
   "incompativeis": [
     "Galaxy A01", "Samsung A10S", "Samsung S10", "Samsung A11",
@@ -30,6 +30,6 @@
     "Redmi note 6 Pro", "Mi A2", "Samsung Galaxy A31", "Redmi 12C", "Redmi A3","Redmi 7","Xiaomi A1","Xiaomi A2",
     "LG K9", "LG K10", "LG K12 MAX", "LG K22",
     "A02S", "A03S", "A10", "J4", "J4 Core", "J7 Prime",
-    "G Max 2 SE 63", "Philco PCS02", "iPhone 8 Plus", "Samsung Galaxy A30", "Samsung Galaxy A31S"
+    "G Max 2 SE 63", "Philco PCS02", "Samsung Galaxy A30", "Samsung Galaxy A31S"
   ]
 }
