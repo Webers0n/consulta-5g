@@ -164,11 +164,29 @@ button:hover {
 
 /* RODAPÉ */
 .footer {
-    background: #222;
-    color: #eee;
+    background-color: #222;
+    color: white;
+    padding: 10px;
     text-align: center;
-    padding: 1em;
-    font-size: 0.9rem;
+    font-size: 14px;
+}
+
+.footer-info {
+    margin-top: 5px;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.footer-info a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer-info a:hover {
+    text-decoration: underline;
 }
 
 
