@@ -17,9 +17,12 @@
     "iPhone 6S","Motorola One Hyper",
     "Samsung Galaxy Z Fold6", "Samsung Galaxy A31","Samsung Galaxy A31S", "Samsung Galaxy A50", "Samsung Galaxy A52", "Samsung Galaxy A20", "Samsung Galaxy A20S", "Samsung Galaxy A30S", "Samsung Galaxy S20 FE","Samsung Galaxy A11","Samsung Galaxy A12",
     "Realme C11", "Realme C33", "Realme C53", "Realme C55", "Realme C67", "Realme C51", 
-    "Redmi Note 13","Redmi Note 9","Redmi 9","Redmi 8","Redmi Note 7","Redmi 8 Pro","Redmi Note 11s",
+    "Redmi Note 13","Redmi Note 9","Redmi 9","Redmi 8","Redmi Note 7","Redmi 8 Pro","Redmi Note 11s","Poco C51",
     "Redmi 9A", "Redmi A2", "Redmi Note 9 Pro", "Redmi Note 9C", "Redmi 10A", "Redmi Note 10S", "iPhone 8 Plus","Poco F3","Infinix Smart 8 Pro"
+
   ],
+
+
   "incompativeis": [
     "Samsung Galaxy A01", "Samsung Galaxy A10S", "Samsung Galaxy S10",
     "Samsung Galaxy J7 Prime", "Samsung Galaxy J7", "Samsung Galaxy J6", "Samsung Galaxy A13",
