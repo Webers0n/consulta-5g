@@ -1,50 +1,68 @@
-# Consulta 5G - Verificador de Aparelhos Compatíveis
+# Consulta 5G - Verificador de Compatibilidade de Aparelhos
 
-Este projeto foi desenvolvido para facilitar o trabalho dos técnicos em campo da empresa, agilizando a consulta de compatibilidade dos modelos de celulares com a rede 5G.
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow.svg)
 
-## Sobre
+---
 
-Durante os atendimentos, os técnicos precisam verificar rapidamente se o aparelho do cliente é compatível com a rede 5G (voz e dados), apenas para dados, ou se é incompatível. Esta aplicação web simples e leve permite essa consulta de forma rápida e prática, sem perda de tempo.
+## Visão Geral
+
+O **Consulta 5G** é uma aplicação web leve e intuitiva desenvolvida para agilizar o trabalho dos técnicos em campo da [Nome da Empresa], permitindo a verificação rápida e precisa da compatibilidade dos modelos de celulares com a rede 5G.
+
+Essa ferramenta elimina a necessidade de consultas manuais e documentação extensa, proporcionando uma experiência fluida para os profissionais durante os atendimentos.
+
+---
 
 ## Funcionalidades
 
-- Busca dinâmica com sugestões à medida que o técnico digita o modelo do celular.
-- Exibição clara da compatibilidade do aparelho:
-  - ✅ Compatível com voz e dados
-  - ⚠️ Compatível apenas para dados
-  - ❌ Incompatível com a rede 5G
-- Botão para acessar diretamente a página de cadastro do chip 5G, quando o modelo for compatível.
-- Base de dados dos modelos armazenada em arquivo JSON, facilitando atualizações.
+- **Busca inteligente:** Sugestões em tempo real conforme o usuário digita o modelo do aparelho.
+- **Compatibilidade detalhada:** Indica se o aparelho é compatível com voz e dados, apenas dados ou incompatível com a rede 5G.
+- **Acesso rápido:** Botão para direcionar o técnico diretamente à página de cadastro do chip 5G para aparelhos compatíveis.
+- **Atualização simples:** Base de dados em arquivo JSON, facilitando a manutenção e expansão da lista de aparelhos.
+
+---
 
 ## Tecnologias Utilizadas
 
-- HTML5  
-- CSS3  
-- JavaScript (vanilla)  
-- JSON para dados
+- **HTML5** para estrutura semântica da página.
+- **CSS3** para estilização responsiva e agradável.
+- **JavaScript (Vanilla)** para lógica de busca, filtro e interação.
+- **JSON** para armazenamento dinâmico da base de modelos compatíveis.
+
+---
 
 ## Estrutura do Projeto
 
 ```
 /
-├── index.html        # Página principal da aplicação
-├── style.css         # Estilos CSS para o layout e visual
-├── main.js           # Script JavaScript que controla a busca e resultados
+├── index.html          # Arquivo principal da aplicação
+├── style.css           # Estilos CSS para o layout
+├── main.js             # Script JavaScript para funcionalidades da busca
 └── data/
-    └── modelos.json  # Base de dados dos modelos compatíveis
+    └── modelos.json    # Base de dados com modelos de aparelhos
 ```
 
-## Como Usar
+---
 
-1. Abra o arquivo `index.html` no navegador.  
-2. Digite o modelo do celular no campo de busca.  
-3. Escolha o modelo correto nas sugestões que aparecerão.  
-4. Veja o resultado da compatibilidade logo abaixo.  
-5. Se o aparelho for compatível, clique em **Acessar Cadastro** para ir para a página de ativação do chip 5G.
+## Instalação e Uso
 
-## Atualizando a Lista de Modelos
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seuusuario/consulta5g.git
+   ```
+2. Navegue até a pasta do projeto:
+   ```bash
+   cd consulta5g
+   ```
+3. Abra o arquivo `index.html` em seu navegador preferido (Google Chrome, Firefox, Edge etc.).
+4. Utilize a barra de pesquisa para digitar e consultar o modelo do aparelho.
+5. Se o aparelho for compatível, utilize o botão para acessar o cadastro do chip 5G.
 
-Para atualizar ou adicionar modelos, edite o arquivo `data/modelos.json` mantendo o seguinte formato:
+---
+
+## Atualização da Base de Dados
+
+Para manter a base de aparelhos atualizada, edite o arquivo `data/modelos.json` seguindo o formato:
 
 ```json
 {
@@ -54,10 +72,32 @@ Para atualizar ou adicionar modelos, edite o arquivo `data/modelos.json` mantend
 }
 ```
 
-## Contato e Suporte
+---
 
-Se o modelo do aparelho não estiver listado, utilize o link disponível na aplicação para solicitar a inclusão do dispositivo na lista.
+## Contribuição
+
+Contribuições são bem-vindas! Para colaborar:
+
+1. Faça um fork deste repositório.
+2. Crie uma branch para sua feature (`git checkout -b feature/nome-da-feature`).
+3. Faça commit das suas alterações (`git commit -m 'Adicionei uma nova feature'`).
+4. Envie para o branch original (`git push origin feature/nome-da-feature`).
+5. Abra um Pull Request descrevendo suas modificações.
 
 ---
 
-© 2025 - Desenvolvido por Weberson Oliveira
+## Contato
+
+Desenvolvido por **Weberson Oliveira**  
+E-mail: seuemail@exemplo.com  
+LinkedIn: [linkedin.com/in/seulinkedin](https://linkedin.com/in/seulinkedin)  
+
+---
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para detalhes.
+
+---
+
+© 2025 Weberson Oliveira  
