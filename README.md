@@ -106,7 +106,7 @@ Contribuições são bem-vindas! Para colaborar:
 
 Desenvolvido por **Weberson Oliveira**  
 E-mail: tif2017c@gmail.com  
-LinkedIn: [linkedin.com/in/seulinkedin](www.linkedin.com/in/josé-weberson)  
+LinkedIn: [[Weberson Oliveira](www.linkedin.com/in/josé-weberson)  ](https://www.linkedin.com/in/jos%C3%A9-weberson/)
 
 ---
 
