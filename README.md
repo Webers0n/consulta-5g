@@ -41,7 +41,19 @@ Essa ferramenta elimina a necessidade de consultas manuais e documentação exte
 └── data/
     └── modelos.json    # Base de dados com modelos de aparelhos
 ```
+## Screenshots
 
+### Tela principal e busca
+
+![Tela Principal](assets/home.png)
+
+### Sugestões dinâmicas ao digitar
+
+![Sugestões](assets/sugestoes.png)
+
+### Resultado de compatibilidade
+
+![Resultado](assets/resultado.png)
 ---
 
 ## Instalação e Uso
@@ -89,15 +101,11 @@ Contribuições são bem-vindas! Para colaborar:
 ## Contato
 
 Desenvolvido por **Weberson Oliveira**  
-E-mail: seuemail@exemplo.com  
-LinkedIn: [linkedin.com/in/seulinkedin](https://linkedin.com/in/seulinkedin)  
+E-mail: tif2017c@gmail.com  
+LinkedIn: [linkedin.com/in/seulinkedin](www.linkedin.com/in/josé-weberson)  
 
 ---
 
-## Licença
 
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para detalhes.
-
----
 
 © 2025 Weberson Oliveira  
