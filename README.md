@@ -7,7 +7,7 @@
 
 ## Visão Geral
 
-O **Consulta 5G** é uma aplicação web leve e intuitiva desenvolvida para agilizar o trabalho dos técnicos em campo da [Nome da Empresa], permitindo a verificação rápida e precisa da compatibilidade dos modelos de celulares com a rede 5G.
+O **Consulta 5G** é uma aplicação web leve e intuitiva desenvolvida para agilizar o trabalho dos técnicos em campo, permitindo a verificação rápida e precisa da compatibilidade dos modelos de celulares com a rede 5G.
 
 Essa ferramenta elimina a necessidade de consultas manuais e documentação extensa, proporcionando uma experiência fluida para os profissionais durante os atendimentos.
 
