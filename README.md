@@ -40,20 +40,24 @@ Essa ferramenta elimina a necessidade de consultas manuais e documentação exte
 ├── main.js             # Script JavaScript para funcionalidades da busca
 └── data/
     └── modelos.json    # Base de dados com modelos de aparelhos
+└── img
+    └──resultado.png
+    └──sugestões.png
+    └──tela principal.png
 ```
 ## Screenshots
 
 ### Tela principal e busca
 
-![Tela Principal](assets/home.png)
+![Tela Principal](img/Tela principal.png)
 
 ### Sugestões dinâmicas ao digitar
 
-![Sugestões](assets/sugestoes.png)
+![Sugestões](img/Sugestoes.png)
 
 ### Resultado de compatibilidade
 
-![Resultado](assets/resultado.png)
+![Resultado](img/Resultado.png)
 ---
 
 ## Instalação e Uso
