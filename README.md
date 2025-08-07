@@ -49,15 +49,15 @@ Essa ferramenta elimina a necessidade de consultas manuais e documentação exte
 
 ### Tela principal e busca
 
-![Tela Principal](img/Tela principal.png)
+![Tela Principal](img/tela-principal.png)
 
 ### Sugestões dinâmicas ao digitar
 
-![Sugestões](img/Sugestoes.png)
+![Sugestões](img/sugestoes.png)
 
 ### Resultado de compatibilidade
 
-![Resultado](img/Resultado.png)
+![Resultado](img/resultado.png)
 ---
 
 ## Instalação e Uso
